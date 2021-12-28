@@ -41,8 +41,3 @@ ol,ul,table,p{
   display:block;
 }
 
-@media only screen and (max-width: 640px) {
-  .profile{
-  width: 50%;
-  }
-}
